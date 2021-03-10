@@ -15,6 +15,8 @@ const HeaderComponent = () => {
           <Link to="/">Bucuresti</Link>
           <Link to="/cluj">Cluj</Link>
           <Link to="/London">London</Link>
+          <p>Mai adaugaam niste text pe aici si vedem ce este de facut</p>
+          <p>Vom vedea ce este mai mult si dacaaa mai este ceva</p>
         </div>
       </div>
     </div>
