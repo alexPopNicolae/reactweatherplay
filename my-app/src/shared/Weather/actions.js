@@ -15,6 +15,21 @@ export const setWeather = (data) => {
   };
 };
 
+export const setWeather1 = (data) => {
+  return {
+    type: actionTypes.SET_WEATHER,
+    data,
+  };
+};
+
+export const setWeather2 = (data) => {
+  return {
+    type: actionTypes.SET_WEATHER,
+    data,
+  };
+};
+
+
 export const setWeatherFail = (err) => {
   return {
     type: actionTypes.SET_WEATHER_FAIL,
