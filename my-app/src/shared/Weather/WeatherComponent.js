@@ -23,6 +23,7 @@ const WeatherComponent = ({ model }) => {
       <div>Feels like: {kelvinToCelsius(feelTemp)}</div>
       <div>Max: {kelvinToCelsius(max)}</div>
       <div>Max: {kelvinToCelsius(min)}</div>
+      <p>MAi adaugaam niste modificari si pe aici ca sa vedem cum merge treaaba</p>
     </div>
   );
 };
