@@ -24,6 +24,7 @@ const WeatherComponent = ({ model }) => {
       <div>Max: {kelvinToCelsius(max)}</div>
       <div>Max: {kelvinToCelsius(min)}</div>
       <p>MAi adaugaam niste modificari si pe aici ca sa vedem cum merge treaaba</p>
+      <p>Mai adauga doar ceea ce ma intereseza pe brnachul feature from develop</p>
     </div>
   );
 };
